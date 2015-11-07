@@ -3,11 +3,12 @@
 <!--This file is machine generated and read. It is not intended to be edited by hand.-->
 <!--Due to this, there is no schema for this file.-->
 <CyGuid_2867d519-54d2-4c01-9830-c51cb08bc3dd type_name="CyDesigner.Common.ProjMgmt.Model.CyPrjMgmtWrkspc" version="5" xml_contents_version="3" name="AQM-1602_Test" persistent="" platform="NOT_USED">
-<current_project name=".\AQM-1602_Test_CQ_PSoC5LP.cydsn\AQM-1602_Test_CQ_PSoC5LP.cyprj" />
+<current_project name=".\AQM-1602_Test_PSoC5LP_Prototyping_Kit.cydsn\AQM-1602_Test_PSoC5LP_Prototyping_Kit.cyprj" />
 <wrkspc_folders />
 <files />
 <projects>
 <v>.\AQM-1602_Test_CQ_PSoC5LP.cydsn\AQM-1602_Test_CQ_PSoC5LP.cyprj</v>
+<v>.\AQM-1602_Test_PSoC5LP_Prototyping_Kit.cydsn\AQM-1602_Test_PSoC5LP_Prototyping_Kit.cyprj</v>
 </projects>
 <workspace_id v="1fa8bac5-b6fc-4587-b20f-4b69530e396e" />
 <WriteAppVersionLastSavedWith v="3.3.0.410" />
